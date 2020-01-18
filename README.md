@@ -1,2 +1,2 @@
-# Python.org_official_tutorial_exercises
+Notes and exercises from the official Python Foundation tutorial
  
